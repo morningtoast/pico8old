@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-# Making games with pico-8
+# Pico-8 Game Development
 
-Various games and snippets for Pico-8
-http://www.lexaloffle.com/pico-8.php
-=======
-# pico8
-Pico-8 game development
->>>>>>> 65d60f9953e2b4989ad21c9f0f1cbfff548e3bb7
+This repo contains WIP and releases of my Pico-8 games.
+
+Check out all my Pico-8 carts from [my Pico-8 profile](http://www.lexaloffle.com/bbs/?uid=12806&mode=carts)
+
+You can also play a few select release on [my Itch.io page](https://morningtoast.itch.io/).
+
