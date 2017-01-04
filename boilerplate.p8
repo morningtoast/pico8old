@@ -13,9 +13,10 @@ __lua__
 --
 -- #globals
 --
+ef=function() end
 t,screen_x,screen_y,screen_w,screen_h=0,0,0,127,127
 score=shr(0,16) --using shr() to allow for big numbers; use score_add(v,s)
-cart_update,cart_draw=efunc,efunc
+cart_update,cart_draw=ef,ef
 
 
 
@@ -180,7 +181,7 @@ end
 --
 -- #utility
 --
-efunc=function() end
+
 
 -- debug tools
 debug=false
