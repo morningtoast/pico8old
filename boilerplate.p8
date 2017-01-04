@@ -26,6 +26,7 @@ cart_update,cart_draw=ef,ef
 --
 function p_init()
 	p_x,p_y,p_dx,p_dy,p_spd,p_acc=64,64,0,0,2,.3
+	p_hbox={x=0,y=0,w=8,h=8} --player hitbox
 	
 end
 
@@ -186,7 +187,7 @@ end
 -- debug tools
 debug=false
 function debug_hitbox(x,y,hb) 
-	rect(x+obj.hb.x,y+hb.y, x+obj.hb.x+hb.w,y+hb.y+hb.h, 11)
+	rect(x+hb.x,y+hb.y, x+hb.x+hb.w,y+hb.y+hb.h, 11)
 end
 
 
