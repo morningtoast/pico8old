@@ -1,3 +1,5 @@
+## *This repo is no longer getting updated*
+
 # Pico-8 Game Development
 
 This repo contains WIP and releases of my Pico-8 games.
