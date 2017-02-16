@@ -1,5 +1,7 @@
 ## *This repo is no longer getting updated*
 
+[Follow this repo instead](https://github.com/morningtoast/pico8)
+
 # Pico-8 Game Development
 
 This repo contains WIP and releases of my Pico-8 games.
