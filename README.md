@@ -1,6 +1,6 @@
 ## *This repo is no longer getting updated*
 
-[Follow this repo instead](https://github.com/morningtoast/pico8)
+[Follow this repo instead](https://github.com/morningtoast/pico8dev)
 
 # Pico-8 Game Development
 
